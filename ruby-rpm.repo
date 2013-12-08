@@ -1,0 +1,5 @@
+[ruby-rpm-rhel6]
+name=Ruby RHEL6-based
+baseurl=https://raw.github.com/hansode/ruby-rpm/master/6/
+enabled=1
+gpgcheck=0
